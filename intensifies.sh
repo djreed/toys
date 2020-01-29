@@ -61,3 +61,4 @@ rm "$extended" "${frame}"-*.gif
 
 # We did it y'all
 echo "Created $gif. Enjoy!"
+
